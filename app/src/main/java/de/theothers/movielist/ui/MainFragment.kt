@@ -6,6 +6,7 @@ import androidx.fragment.app.Fragment
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
+import de.theothers.movielist.ui.viewModel.MainViewModel
 import de.theothers.movielist.R
 
 class MainFragment : Fragment() {
