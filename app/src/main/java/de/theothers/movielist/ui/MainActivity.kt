@@ -1,4 +1,4 @@
-package de.theothers.movielist
+package de.theothers.movielist.ui
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle

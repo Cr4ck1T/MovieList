@@ -1,4 +1,4 @@
-package de.theothers.movielist.ui.main
+package de.theothers.movielist.ui
 
 import androidx.lifecycle.ViewModelProviders
 import android.os.Bundle
